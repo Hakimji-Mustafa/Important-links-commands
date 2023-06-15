@@ -25,3 +25,6 @@ link = https://github.com/react-native-maps/react-native-maps/blob/HEAD/docs/ins
 got to the above link for react native maps library integration.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+Free courses link
+link = https://coursesity.com/free-tutorials-learn/react-native
+----------------------------------------------------------------------------------------------------------------------------------------------------------

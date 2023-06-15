@@ -18,3 +18,10 @@ link = https://stackoverflow.com/questions/37389905/change-package-name-for-andr
 Go to the above link and follow all the steps and your package name will be changed to any name you want to give.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+React native maps best link 
+
+link = https://github.com/react-native-maps/react-native-maps/blob/HEAD/docs/installation.md
+
+got to the above link for react native maps library integration.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -28,3 +28,22 @@ got to the above link for react native maps library integration.
 Free courses link
 link = https://coursesity.com/free-tutorials-learn/react-native
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+Generating the SSH Key
+
+1. Creating the SSH Key on git email
+**ssh-keygen -t rsa -b 4096 -C "mustafa.hakimji@techvalens.com"**
+
+2. Checking the Agent is activated or not.
+**$ eval "$(ssh-agent -s)"**
+
+3. Adding the Key into agent
+**ssh-add ~/.ssh/id_rsa **  
+
+4. Checking the key if this won’t work then the next will.
+**~/.ssh/id_rsa**   
+
+5. If the above step won’t work than this will.
+**cat ~/.ssh/id_rsa.pub**
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
